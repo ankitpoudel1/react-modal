@@ -1,4 +1,7 @@
 # react-modal
+
+Download the files and import Modal component
+
 Props 
 
 title : The modal title
